@@ -53,12 +53,11 @@ INSERT INTO servicos (nome_servico,valor,duracao_minutos) VALUES
     ("raio-x",100,60),
     ("consulta de dentista",200,120);
      
-INSERT INTO agendamentos ( paciente_id,profissional_id,servico_id,data_agendamento,hora_agendamento) VALUES
-	INSERT INTO `agendamentos` (`id`, `paciente_id`, `profissional_id`, `servico_id`, `data_agendamento`, `hora_agendamento`) VALUES 
-    ('1', '1', '1', '2026-03-12', '14:30:00'),
-    ('2', '2', '2', '2026-03-20', '13:30:00'), 
-    ('1', '1', '1', '2026-05-12', '15:30:00'),
-    ('2', '2', '2', '2026-04-12', '14:30:00'),
+INSERT INTO `agendamentos` (`paciente_id`, `profissional_id`, `servico_id`, `data_agendamento`, `hora_agendamento`) VALUES 
+    ('1', '2', '1', '2026-03-12', '14:30:00'),
+    ('2', '1', '2', '2026-03-20', '13:30:00'), 
+    ('1', '2', '1', '2026-05-12', '15:30:00'),
+    ('2', '2', '1', '2026-04-12', '14:30:00'),
     ('3', '2', '1', '2026-04-12', '16:30:00');
 
     
