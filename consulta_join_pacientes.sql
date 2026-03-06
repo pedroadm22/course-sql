@@ -8,4 +8,3 @@ JOIN profissionais
 	ON profissional_id = agendamentos.profissional_id
 JOIN servicos
 	ON servico_id = agendamentos.servico_id;
-    --teste
