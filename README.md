@@ -137,7 +137,7 @@ Resultado esperado:
 
 <div>
 
-<a href="https://www.postgresql.org/">
+<a href="https://www.postgresql.org/" style="text-decoration: none; color: inherit;">
     <img src="https://skillicons.dev/icons?i=postgresql" alt="Imagem Postgresql"/>
 </a>
 <a href="https://www.mysql.com/">
