@@ -144,17 +144,14 @@ Resultado esperado:
     <img src="https://skillicons.dev/icons?i=mysql" alt="Imagem MySQL"/>
 </a>
 <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode" alt="Imagem Git/">
+    <img src="https://skillicons.dev/icons?i=git" alt="Imagem Git/">
 </a>
 <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode" alt="Imagem GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="Imagem GitHub"/>
 </a>
 <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode" alt="Imagem VSCode"/>
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Imagem VSCode"/>
 </a>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode"/>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode"/>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode"/>
 
 </div>
 
