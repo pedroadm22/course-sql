@@ -1,4 +1,4 @@
-<div align="center">
+git<div align="center">
 
 # 💾 Course SQL – Banco de Dados
 
@@ -137,6 +137,23 @@ Resultado esperado:
 
 <div>
 
+<a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgresql" alt="Imagem Postgresql"/>
+</a>
+<a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="Imagem MySQL"/>
+</a>
+<a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode" alt="Imagem Git/">
+</a>
+<a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode" alt="Imagem GitHub"/>
+</a>
+<a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode" alt="Imagem VSCode"/>
+</a>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode"/>
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode"/>
 
 </div>
