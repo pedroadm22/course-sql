@@ -140,16 +140,16 @@ Resultado esperado:
 <a href="https://www.postgresql.org/" style="text-decoration: none; color: inherit;">
     <img src="https://skillicons.dev/icons?i=postgresql" alt="Imagem Postgresql"/>
 </a>
-<a href="https://www.mysql.com/">
+<a href="https://www.mysql.com/" style="text-decoration: none; color: inherit;">
     <img src="https://skillicons.dev/icons?i=mysql" alt="Imagem MySQL"/>
 </a>
-<a href="https://git-scm.com/">
+<a href="https://git-scm.com/" style="text-decoration: none; color: inherit;">
     <img src="https://skillicons.dev/icons?i=git" alt="Imagem Git/">
 </a>
-<a href="https://github.com/">
+<a href="https://github.com/" style="text-decoration: none; color: inherit;">
     <img src="https://skillicons.dev/icons?i=github" alt="Imagem GitHub"/>
 </a>
-<a href="https://code.visualstudio.com/">
+<a href="https://code.visualstudio.com/" style="text-decoration: none; color: inherit;">
     <img src="https://skillicons.dev/icons?i=vscode" alt="Imagem VSCode"/>
 </a>
 
