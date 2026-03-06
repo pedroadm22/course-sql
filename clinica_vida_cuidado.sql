@@ -39,12 +39,13 @@ CREATE TABLE agendamentos(
  );
   
  INSERT INTO pacientes(nome, cpf, telefone, data_nascimento) VALUES
-	("Pedro", "90128341324", "90128341324", "2020-03-20"); 
- INSERT INTO pacientes(nome, cpf, telefone, data_nascimento) VALUES
-	("Pedro", "90128341324", "90128341324", "2020-03-20"); 
+	("Pedro", "90128341324", "85987765442", "2001-03-20"), 
+	("Matheus", "02128341324", "8598906542", "2020-09-21"),
+    ("Afonso", "02128214324", "8598906501", "2019-04-10"); 
+ 
    
  INSERT INTO profissionais (nome,especialidade,telefone) VALUES
- 	("thiago","enfermeiro","85946825978"),
+ 	("thiago","radiologista","85946825978"),
     ("davi","pediatra","88984567912");
      
 INSERT INTO servicos (nome_servico,valor,duracao_minutos) VALUES
@@ -53,4 +54,11 @@ INSERT INTO servicos (nome_servico,valor,duracao_minutos) VALUES
     ("consulta de dentista",200,120);
      
 INSERT INTO agendamentos ( paciente_id,profissional_id,servico_id,data_agendamento,hora_agendamento) VALUES
-	(1,1,1,"2026-03-12","14:30:00");
+	INSERT INTO `agendamentos` (`id`, `paciente_id`, `profissional_id`, `servico_id`, `data_agendamento`, `hora_agendamento`) VALUES 
+    ('1', '1', '1', '2026-03-12', '14:30:00'),
+    ('2', '2', '2', '2026-03-20', '13:30:00'), 
+    ('1', '1', '1', '2026-05-12', '15:30:00'),
+    ('2', '2', '2', '2026-04-12', '14:30:00'),
+    ('3', '2', '1', '2026-04-12', '16:30:00');
+
+    
