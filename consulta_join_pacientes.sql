@@ -1,10 +1,12 @@
-/*CONSULTA DE NOME DO PACIENTE*/
-
-SELECT pacientes.nome AS nome_do_paciente, profissionais.nome nome_do_profissional, servicos.nome_servico nome_do_servico
-FROM agendamentos
-JOIN pacientes
-	ON paciente_id = agendamentos.paciente_id
-JOIN profissionais 
-	ON profissional_id = agendamentos.profissional_id
-JOIN servicos
-	ON servico_id = agendamentos.servico_id;
+SELECT 
+    p.nome AS paciente,
+    pr.nome AS profissional,
+    s.nome_servico,
+    a.data_agendamento
+FROM agendamentos a
+JOIN pacientes p 
+    ON p.id = a.paciente_id
+JOIN profissionais pr 
+    ON pr.id = a.profissional_id
+JOIN servicos s 
+    ON s.id = a.servico_id;
