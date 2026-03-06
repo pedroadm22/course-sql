@@ -135,33 +135,17 @@ Resultado esperado:
 
 # 🚀 Tecnologias Utilizadas
 
-<div>
-
-<a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgresql" alt="Imagem Postgresql"/>
-</a>
-<a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="Imagem MySQL"/>
-</a>
-<a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode" alt="Imagem Git/">
-</a>
-<a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode" alt="Imagem GitHub"/>
-</a>
-<a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode" alt="Imagem VSCode"/>
-</a>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode"/>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode"/>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode"/>
-
-</div>
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
+[![PostgreSQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=github)](https://github.com//)
+[![PostgreSQL](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
 * SQL
 * PostgreSQL / MySQL
 * Git
 * GitHub
+* VsCode
 
 ---
 
