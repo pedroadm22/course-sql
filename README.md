@@ -137,7 +137,15 @@ Resultado esperado:
 
 <div>
 
-<a href="https://www.postgresql.org/" style="text-decoration: none; color: inherit;">
+<a href="https://www.postgresql.org/" style="
+text-decoration:none;
+background:#0ea5e9;
+color:white;
+padding:10px 16px;
+border-radius:8px;
+font-weight:600;
+display:inline-block;
+">
     <img src="https://skillicons.dev/icons?i=postgresql" alt="Imagem Postgresql"/>
 </a>
 <a href="https://www.mysql.com/" style="text-decoration: none; color: inherit;">
